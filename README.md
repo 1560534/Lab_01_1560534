@@ -1,14 +1,11 @@
 # Lab_01_1560534
-Markdown Syntax
-1560534
-Pốc Nghiệp Thắng
-15CK4
-1560534@student.hcmus.edu.vn
-01687818008
-Link facebook cá nhân
-Tạo table hiển thị thời khoá biểu học tập ở trường
-https://www.facebook.com/profile.php?id=100008101305266
-
+### 1560534
+### Pốc Nghiệp Thắng
+### 15CK4
+#### 1560534@student.hcmus.edu.vn
+#### 01687818008
+#### https://www.facebook.com/profile.php?id=100008101305266
+## Thời Khoá Biểu
 |Giờ BĐ - Giờ KT| Tiết  |     Thứ 2     |           Thứ 3            |         Thứ 4           |    Thứ 5    |     Thứ 6    |            Thứ 7             |
 
 |---------------|-------|---------------|----------------------------|-------------------------|-------------|------------- |----------------------------- |
